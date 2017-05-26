@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="IlluminatedCloudSettings">
+    <option name="connections">
+      <list>
+        <IlluminatedCloudConnection>
+          <option name="connectionName" value="product.sukumar.bindra1@deltak-innovation.com.guitar" />
+          <option name="defaultModuleName" value="product.sukumar.bindra1@deltak-innovation.com.guitar1" />
+          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/product_sukumar_bindra1_deltak_innovation_com_guitar/OfflineSymbolTable.zip" />
+        </IlluminatedCloudConnection>
+      </list>
+    </option>
+  </component>
+</project>
